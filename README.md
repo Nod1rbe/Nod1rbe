@@ -27,9 +27,3 @@
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGh2MWRtam5wYTAzMXptbXBwcHpiNXBlZXU5d2tweG1zN2MwbWc1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4l3dds2PKk7lt4tktj/giphy.gif" alt="Right Image" width="200" style="margin-left: 50px;">
   </div> 
 </div>
-<div align="center">
-  <h2>🐍 GitHub Activity Snake</h2>
-  <img src="https://raw.githubusercontent.com/Nod1rbe/Nod1rbe/output/github-contribution-grid-snake.svg" />
-</div>
-
-
